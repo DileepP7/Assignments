@@ -1,0 +1,67 @@
+/* CSS Document */
+
+body { 
+       background-color:#333333 center top #37271c; 
+	   font-family:Tahoma, Geneva, sans-serif; 
+	   font-size:100%; 
+	   line-height:1.125em; 
+	   color:#bca695;
+	   }
+
+.body-bg{
+       background-color:#666666;
+	   }
+.main-wrapper{
+         width:1002px;
+		 background-color:#999999;
+		 margin:auto;
+		 }
+.header-wrapper{
+		 margin:0px; 
+		 margin:auto;
+		 }
+.nav-wrapper{
+         margin:auto;
+		 }
+
+.aligncenter { 
+         text-align:center;
+		 }
+		 
+.wrapper { 
+        width:100%; 
+		overflow:hidden;
+		}
+		
+.footer { 
+        font-family:Arial, Helvetica, sans-serif;
+		padding:40px;
+		width:100%;
+		overflow:hidden;
+		background-color:#0099FF;
+		}
+		
+.footer a { 
+        color:#e3dad2;
+		}
+		
+.footer .footnav { 
+        width:100%; 
+		overflow:hidden;
+		padding-left:500px;
+		}
+		
+.footer .footnav li { 
+        display:inline; 
+		float:inherit;
+		}
+		
+.footer .footnav li a { 
+        padding:0 10px 0 10px; 
+		color:#990099;
+		text-decoration:none;
+		}
+		
+.footer .footnav li a:hover{
+         color:#FF0099;
+		 }

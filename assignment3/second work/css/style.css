@@ -1,0 +1,76 @@
+/* CSS Document */
+body{
+     margin:0px;
+	 padding:0px;
+	 }
+				   
+.page-wrapper{
+                background-color:#CCCCCC;
+				width:1002px;
+				margin:auto;
+			 }	
+				
+.box-wrapper{
+             width:625px;
+			 height:220px;
+			 margin:auto;
+			 background-color:#b7a0a0;
+			 padding:10px;
+			 }   
+.box-wrapper .col-1{
+       margin:10px;
+       width:130px;
+	   height:180px;
+	   padding:10px;
+	   background-color:#8a5757;
+	   float:left;
+	   }
+	 
+.box-wrapper .col-2{
+       margin:10px;
+       width:90px;
+	   height:180px;
+	   background-color:#b7a0a0;
+	   float:left;
+	   }
+	     
+
+.box-wrapper .col-2 .col-2sub1{
+       background-color:#8a5757;
+	   float:left;
+	   width:85px;
+	   height:85px;
+	   margin:0 10px 5px 0;
+	   padding:5px;
+	   }
+	   
+.box-wrapper .col-2 .col-2sub2{
+       background-color:#8a5757;
+	   float:left;
+	   width:85px;
+	   height:85px;
+	   padding:5px;
+	   margin:5px 10px 0 0;
+	   }
+	   
+.box-wrapper .col-3{
+       margin:10px;
+       width:130px;
+	   height:180px;
+	   padding:10px;
+	   background-color:#8a5757;
+	   float:left;
+	   }
+	   
+.box-wrapper .col-4{
+       margin:10px;
+       width:130px;
+	   height:180px;
+	   padding:10px;
+	   background-color:#8a5757;
+	   float:left;
+	   }
+	   
+      
+       
+

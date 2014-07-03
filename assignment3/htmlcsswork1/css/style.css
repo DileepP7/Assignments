@@ -1,0 +1,42 @@
+/* CSS Document */
+
+.header-wrapper .phones { 
+                 float:right;
+				 font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; 
+				 font-size:15px; 
+				 line-height:1em; 
+				 color:#009966; 
+				 padding:15px; 
+				 letter-spacing:-1px;
+				 }
+				 
+.header-wrapper .logo-wrapper{
+             padding:40px 0 0 40px;
+			 }
+			 
+.page-wrapper{
+                background-color:#CCCCCC;
+				width:1002px;
+				margin:auto;
+				height:auto;
+			 }	
+				 
+.banner-wrapper{
+                 background-color:#333333;
+				 width:1002px;
+				 margin:auto;
+				 overflow:hidden;
+				 }
+				 
+				 
+
+.banner-wrapper img { 
+                 padding-top:3px;
+                 float:left; 
+                 margin:0 20px 0 0;
+				 width:1002px;
+				 max-height:150px;
+				 }	
+				 
+
+	
